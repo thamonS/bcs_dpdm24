@@ -8,4 +8,4 @@ SIDS KKU Data Preparation and Data mining
 
 
 # **PROJECT**
-* [Fraud DetEction](https://www.canva.com/design/DAGfn2mw-Cg/un4fNue84DCsrkB0whIDkw/view?utm_content=DAGfn2mw-Cg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h223a1fa533) by กุหลาบไฟ
+* [Fraud Detection](https://www.canva.com/design/DAGfn2mw-Cg/un4fNue84DCsrkB0whIDkw/view?utm_content=DAGfn2mw-Cg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h223a1fa533) by กุหลาบไฟ
